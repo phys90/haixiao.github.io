@@ -12,7 +12,7 @@ title                    : "Hai-Xiao Wang/ Personal Homepage"
 title_separator          : "-"
 name                     : "Hai-Xiao Wang"
 description              : "Manipulate wave with topology"
-url                      : https://haixiao.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://phys90.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "phy90/haixiao.github.io"
 
