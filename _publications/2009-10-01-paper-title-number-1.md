@@ -26,7 +26,7 @@
 ### 2021
 
 - Biye Xie, **Hai-Xiao Wang**, Xiujuan Zhang, Peng Zhan, Jiang-Hua Jiang<sup>\*</sup>, Minghui Lu<sup>\*</sup>, and Yanfeng Chen<sup>\*</sup>, ["Higher-order band topology"](https://www.doi.org/10.1038/s42254-021-00323-4), *Nature Review Physics* 3, 520 (2021).
-- 
+
 - Li Luo<sup>\#</sup>, **Hai-Xiao Wang**<sup>\#</sup>, Zhi-Kang Lin<sup>\#</sup>, Bin Jiang, Guang-Yu Guo, and Jian-Hua Jiang<sup>\*</sup>, ["Observation of a phononic higher-order Weyl semimetal"](http://www.nature.com/articles/s41563-021-00985-6). *Nature Materials* 20, 794 (2021).
   
 - Biye Xie*, **Hai-Xiao Wang**, Xiujuan Zhang, Peng Zhan, Jiang-Hua Jiang<sup>\*</sup>, Minghui Lu<sup>\*</sup> and Yanfeng Chen<sup>\*</sup>, [“Higher-order band topology”](https://doi.org/10.1038/s42254-021-00323-4), *Nature Review Physics* 3, 520 (2021).
