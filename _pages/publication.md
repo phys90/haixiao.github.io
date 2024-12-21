@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "Pulications"
+permalink: /publications/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 ## Journal papers (\#Co-first author,\*Corresponding author)
 
 ### 2024
