@@ -1,6 +1,6 @@
  ---
  layout: archive
-  title: "Hai-Xiao Wang"
+ title: "Hai-Xiao Wang"
  permalink: /
  author_profile: true
  redirect_from: 
